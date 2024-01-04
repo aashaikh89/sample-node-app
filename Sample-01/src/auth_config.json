@@ -1,1 +1,5 @@
-
+{
+  "domain": "devciam.eu.auth0.com",
+  "clientId": "rhrjZIfwVJfnY5YU00OvamPAWHoGjAE3",
+  "audience": "https://devciam-api.com/"
+}
